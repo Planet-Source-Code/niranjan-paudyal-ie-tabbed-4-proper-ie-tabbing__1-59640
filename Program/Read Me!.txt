@@ -1,0 +1,23 @@
+Please compile the program before running!
+I warn in advance, please compile before running!
+
+When you run the program, it will not show itself unless there are IE windows open.
+Otherwise, launch an IE window and it will be tabbed.
+
+Enjoy.
+
+
+Updates since last post.
+Much more stable.
+Right click menu.
+Can autorun on start up.
+Tabs close with middle button.
+Doesnt use any extra controls for subclassing.
+Several other features*---cant remember them!
+
+
+This program tabbs internet explorers windows, providing you with an excellent tabbed interface that doesn't compramise IE functionalities. This is the first program of its type.
+
+
+
+Niranjan Paudyal
